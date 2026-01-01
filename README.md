@@ -83,7 +83,7 @@ Built **4 AI agents** using n8n for automation and intelligent workflows.
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/connectwithvanshika](https://github.com/connectwithvanshika)
-* LinkedIn: *([add your LinkedIn link](https://www.linkedin.com/in/vanshika-y-a4702a304/))*
+* LinkedIn: *(https://www.linkedin.com/in/vanshika-y-a4702a304/)*
 
 
 ---
