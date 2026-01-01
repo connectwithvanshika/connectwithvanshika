@@ -14,7 +14,8 @@ I enjoy turning ideas into scalable applications and contributing to open source
   * **16 merged pull requests** across open-source repositories
   * Followed production Git workflows (issues, branches, PR reviews)
 
-<img width="2020" height="1316" alt="image" src="https://github.com/user-attachments/assets/4353b7f4-0e2e-412e-a68f-70a1a3df1996" />
+<img width="1765" height="1536" alt="image" src="https://github.com/user-attachments/assets/9f0fd481-909d-4466-9dd8-aa78175bdfe7" />
+
 
 
 ---
