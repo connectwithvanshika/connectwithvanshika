@@ -7,6 +7,13 @@
 I’m an undergraduate student at **Newton School of Technology**, passionate about building **real-world products** using full-stack development, AI agents, and workflow automation.
 I enjoy turning ideas into scalable applications and contributing to open source.
 
+## 🏆 Open Source & Achievements
+
+* **Hacktoberfest 2025 – Super Contributor**
+
+  * **16 merged pull requests** across open-source repositories
+  * Followed production Git workflows (issues, branches, PR reviews)
+
 <img width="2020" height="1316" alt="image" src="https://github.com/user-attachments/assets/4353b7f4-0e2e-412e-a68f-70a1a3df1996" />
 
 
@@ -63,14 +70,6 @@ Built **4 AI agents** using n8n for automation and intelligent workflows.
 
 ---
 
-## 🏆 Open Source & Achievements
-
-* **Hacktoberfest 2025 – Super Contributor**
-
-  * **16 merged pull requests** across open-source repositories
-  * Followed production Git workflows (issues, branches, PR reviews)
-
----
 
 ## 🛠 Tech Stack
 
