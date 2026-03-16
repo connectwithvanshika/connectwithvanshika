@@ -7,7 +7,7 @@
 I’m an undergraduate student at **Newton School of Technology**, passionate about building **real-world products** using full-stack development, AI agents, and workflow automation.
 I enjoy turning ideas into scalable applications and contributing to open source.
 
-## 🏆 Open Source & Achievements
+## Open Source & Achievements
 
 * **Hacktoberfest 2025 – Super Contributor**
 
@@ -20,7 +20,7 @@ I enjoy turning ideas into scalable applications and contributing to open source
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 
 * Building **full-stack platforms** with React, Node.js, Express, and MongoDB
 * Developing **AI agents** and automation workflows using **n8n**
@@ -29,9 +29,9 @@ I enjoy turning ideas into scalable applications and contributing to open source
 
 ---
 
-## 🧠 Projects
+## Projects
 
-### 🌍 SoloSphere – Travel Safety Platform
+### SoloSphere – Travel Safety Platform
 
 A community-driven full-stack platform focused on **solo travelers and women’s safety**.
 
@@ -44,7 +44,7 @@ A community-driven full-stack platform focused on **solo travelers and women’s
 
 ---
 
-### 🌿 CalmSphere – Mental Wellness Platform
+### CalmSphere – Mental Wellness Platform
 
 A mental wellness platform to help users track moods and manage stress.
 
@@ -58,7 +58,7 @@ A mental wellness platform to help users track moods and manage stress.
 
 ---
 
-### 🤖 AI Agent Projects (n8n)
+### AI Agent Projects (n8n)
 
 Built **4 AI agents** using n8n for automation and intelligent workflows.
 
@@ -72,7 +72,7 @@ Built **4 AI agents** using n8n for automation and intelligent workflows.
 ---
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, Python
 **Frontend:** React, HTML, CSS
@@ -83,7 +83,7 @@ Built **4 AI agents** using n8n for automation and intelligent workflows.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * GitHub: [https://github.com/connectwithvanshika](https://github.com/connectwithvanshika)
 * LinkedIn: [https://www.linkedin.com/in/vanshika-y-a4702a304/](https://www.linkedin.com/in/vanshika-y-a4702a304/)
