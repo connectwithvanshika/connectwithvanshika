@@ -78,11 +78,18 @@ I enjoy turning ideas into scalable applications and contributing to open source
 
 ---
 
-## Connect With Me
+## Connect
 
-* GitHub: [https://github.com/connectwithvanshika](https://github.com/connectwithvanshika)
-* LinkedIn: [https://www.linkedin.com/in/vanshika-y-a4702a304/](https://www.linkedin.com/in/vanshika-y-a4702a304/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/connectwithvanshika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshika-y-a4702a304/)
 
 ---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connectwithvanshika&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=connectwithvanshika&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connectwithvanshika&layout=compact)
 
