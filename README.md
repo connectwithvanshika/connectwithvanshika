@@ -7,6 +7,13 @@
 I’m an undergraduate student at **Newton School of Technology**, passionate about building **real-world products** using full-stack development, AI agents, and workflow automation.
 I enjoy turning ideas into scalable applications and contributing to open source.
 
+## About Me
+
+- Building full-stack applications using modern web technologies  
+- Working on data analysis, visualization, and dashboarding  
+- Exploring AI agents, automation workflows, and real-time systems  
+- Interested in combining data engineering with product development  
+
 ## Open Source & Achievements
 
 * **Hacktoberfest 2025 – Super Contributor**
@@ -16,70 +23,58 @@ I enjoy turning ideas into scalable applications and contributing to open source
 
 <img width="1765" height="1536" alt="image" src="https://github.com/user-attachments/assets/9f0fd481-909d-4466-9dd8-aa78175bdfe7" />
 
-
-
 ---
-
-## What I’m Working On
-
-* Building **full-stack platforms** with React, Node.js, Express, and MongoDB
-* Developing **AI agents** and automation workflows using **n8n**
-* Exploring **AI-powered productivity tools** and real-time systems
-* Actively contributing to **open-source projects**
-
----
-
-## Projects
-
-### SoloSphere – Travel Safety Platform
-
-A community-driven full-stack platform focused on **solo travelers and women’s safety**.
-
-* JWT-based authentication with role-based access (User/Admin)
-* REST APIs for creating, updating, and verifying safety posts
-* Advanced search, filter, sort, and pagination
-* Deployed on **Vercel (frontend)**, **Render (backend)**, **MongoDB Atlas**
-
-**Tech:** React, Node.js, Express, MongoDB, JWT
-
----
-
-### CalmSphere – Mental Wellness Platform
-
-A mental wellness platform to help users track moods and manage stress.
-
-* Daily mood tracking with optional notes
-* Guided breathing exercises
-* Motivational quotes
-* Weekly mood visualization dashboard
-* Calm dark UI with neutral cream & beige palette
-
-**Tech:** React, JavaScript, CSS, Charts
-
----
-
-### AI Agent Projects (n8n)
-
-Built **4 AI agents** using n8n for automation and intelligent workflows.
-
-* Automated email sender using AI + Gmail API
-* Google Sheets AI agent for reading, updating, and managing records via chat
-* Email responder AI for classifying and drafting replies
-* Retrieval-based data analysis agent using structured data
-
-**Tech:** n8n, AI Agents, OpenAI / Gemini, APIs, Automation
-
----
-
 
 ## Tech Stack
 
-**Languages:** JavaScript, Python
-**Frontend:** React, HTML, CSS
-**Backend:** Node.js, Express
-**Database:** MongoDB
-**AI & Automation:** n8n, AI Agents
-**Tools:** Git, GitHub, Postman, Vercel, Render
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+
+---
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
+
+---
+
+### Web Development
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+---
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+
+---
+
+### AI / Machine Learning & Automation
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge)
 
 ---
 
