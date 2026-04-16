@@ -9,10 +9,10 @@ I enjoy turning ideas into scalable applications and contributing to open source
 
 ## About Me
 
-- Building full-stack applications using modern web technologies  
-- Working on data analysis, visualization, and dashboarding  
-- Exploring AI agents, automation workflows, and real-time systems  
-- Interested in combining data engineering with product development  
+- ▸ Working on data analysis, visualization, and dashboarding  
+- ▸ Exploring AI agents, automation workflows, and real-time systems
+- ▸ Building full-stack applications using modern web technologies  
+- ▸ Interested in combining data engineering with product development  
 
 ## Open Source & Achievements
 
