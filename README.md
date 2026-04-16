@@ -2,10 +2,7 @@
 
 # Hi, I’m Vanshika Yadav
 
-**Undergraduate | Full-Stack Developer | AI & Automation Enthusiast**
-
-I’m an undergraduate student at **Newton School of Technology**, passionate about building **real-world products** using full-stack development, AI agents, and workflow automation.
-I enjoy turning ideas into scalable applications and contributing to open source.
+AI/ML Enthusiast & Web Developer | Skilled in Python, Machine Learning, Deep Learning & LLMs | Building Intelligent Systems with LangChain, LangGraph, RAG & AI Agents
 
 ## About Me
 
