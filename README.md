@@ -2,7 +2,8 @@
 
 # Hi, I’m Vanshika Yadav
 
-AI/ML Enthusiast & Web Developer | Skilled in Python, Machine Learning, Deep Learning & LLMs | Building Intelligent Systems with LangChain, LangGraph, RAG & AI Agents
+AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25 | Building Intelligent AI Systems with LLMs, RAG, LangChain & AI Agents | Python, Pandas, NumPy, React & JavaScript
+
 
 ## About Me
 
