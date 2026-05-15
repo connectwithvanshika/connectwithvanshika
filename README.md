@@ -12,7 +12,7 @@
 
 ---
 
-## 🪄 About Me
+## About Me
 
 ```python
 vanshika = {
@@ -25,11 +25,11 @@ vanshika = {
 
 ---
 
-## 🏆 Open Source & Achievements
+## Open Source & Achievements
 
 <div align="center">
 
-### 🎃 Hacktoberfest 2025 — Super Contributor
+### Hacktoberfest 2025 — Super Contributor
 
 | 🔀 Pull Requests | 📁 Repositories | ⚙️ Workflow |
 |:-:|:-:|:-:|
@@ -41,34 +41,34 @@ vanshika = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-462C7D?style=for-the-badge&logo=python&logoColor=FF70BF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-831C91?style=for-the-badge&logo=javascript&logoColor=FF70BF)
 ![SQL](https://img.shields.io/badge/SQL-D552A3?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-462C7D?style=for-the-badge&logo=pandas&logoColor=FF70BF)
 ![NumPy](https://img.shields.io/badge/NumPy-831C91?style=for-the-badge&logo=numpy&logoColor=FF70BF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-D552A3?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-462C7D?style=for-the-badge&logoColor=FF70BF)
 ![Tableau](https://img.shields.io/badge/Tableau-831C91?style=for-the-badge&logo=tableau&logoColor=FF70BF)
 
-### 🌐 Web Development
+### Web Development
 ![React](https://img.shields.io/badge/React-462C7D?style=for-the-badge&logo=react&logoColor=FF70BF)
 ![Node.js](https://img.shields.io/badge/Node.js-831C91?style=for-the-badge&logo=node.js&logoColor=FF70BF)
 ![Express](https://img.shields.io/badge/Express-D552A3?style=for-the-badge&logo=express&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-462C7D?style=for-the-badge&logo=html5&logoColor=FF70BF)
 ![CSS](https://img.shields.io/badge/CSS-831C91?style=for-the-badge&logo=css3&logoColor=FF70BF)
 
-### 🗄️ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-462C7D?style=for-the-badge&logo=mongodb&logoColor=FF70BF)
 ![MySQL](https://img.shields.io/badge/MySQL-831C91?style=for-the-badge&logo=mysql&logoColor=FF70BF)
 
-### 🤖 AI / ML & Automation
+### AI / ML & Automation
 ![LangChain](https://img.shields.io/badge/LangChain-462C7D?style=for-the-badge&logoColor=FF70BF)
 ![LangGraph](https://img.shields.io/badge/LangGraph-831C91?style=for-the-badge&logoColor=FF70BF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-D552A3?style=for-the-badge&logo=openai&logoColor=white)
@@ -76,7 +76,7 @@ vanshika = {
 ![n8n](https://img.shields.io/badge/n8n-462C7D?style=for-the-badge&logo=n8n&logoColor=FF70BF)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-831C91?style=for-the-badge&logoColor=FF70BF)
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-462C7D?style=for-the-badge&logo=git&logoColor=FF70BF)
 ![GitHub](https://img.shields.io/badge/GitHub-831C91?style=for-the-badge&logo=github&logoColor=FF70BF)
 ![Postman](https://img.shields.io/badge/Postman-D552A3?style=for-the-badge&logo=postman&logoColor=white)
@@ -87,7 +87,7 @@ vanshika = {
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -105,7 +105,7 @@ vanshika = {
 
 ---
 
-## 🗂️ GitHub Summary
+## GitHub Summary
 
 <div align="center">
 
@@ -117,7 +117,7 @@ vanshika = {
 
 ---
 
-## 🌿 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -127,7 +127,7 @@ vanshika = {
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -137,7 +137,7 @@ vanshika = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
