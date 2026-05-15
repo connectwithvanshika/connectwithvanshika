@@ -1,6 +1,12 @@
-# Hi, I’m Vanshika Yadav
+<div align="center">
 
-AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25 | Building Intelligent AI Systems with LLMs, RAG, LangChain & AI Agents | Python, Pandas, NumPy, React & JavaScript
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vanshika+Yadav;AI%2FML+Enthusiast;Data+Analyst;Building+AI+Systems+with+LLMs+and+Agents" alt="Typing SVG" />
+
+### AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25
+
+### Building Intelligent AI Systems with LLMs, RAG, LangChain & AI Agents
+
+</div>
 
 ---
 
@@ -10,7 +16,7 @@ AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25 | Building Intelligent AI Sys
 - Exploring AI agents, automation workflows, and real-time systems  
 - Building full-stack applications using modern web technologies  
 - Interested in combining data engineering with product development  
-- Passionate about AI-powered systems, analytics, and scalable applications  
+- Passionate about AI-powered systems and scalable applications  
 
 ---
 
@@ -22,22 +28,6 @@ AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25 | Building Intelligent AI Sys
 - Worked with production Git workflows including issues, branching, PR reviews, and collaboration  
 
 <img width="1765" height="1536" alt="Hacktoberfest" src="https://github.com/user-attachments/assets/9f0fd481-909d-4466-9dd8-aa78175bdfe7" />
-
----
-
-## Daily Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0e4a8d72-2e63-48ab-8a16-1f7d7cf36a77" alt="Daily Contribution Graph" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=connectwithvanshika&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
@@ -100,24 +90,56 @@ AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25 | Building Intelligent AI Sys
 
 ---
 
-## GitHub Activity
+# GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connectwithvanshika&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectwithvanshika&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=connectwithvanshika&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=connectwithvanshika&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connectwithvanshika&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectwithvanshika&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=connectwithvanshika&theme=tokyonight)
+# GitHub Summary Cards
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=connectwithvanshika&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=connectwithvanshika&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=connectwithvanshika&theme=tokyonight" />
+</p>
+
+---
+
+# Daily Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithvanshika&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=connectwithvanshika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
 
 ---
 
 ## Connect
 
+<p align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/connectwithvanshika)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshika-y-a4702a304/)
+
+</p>
