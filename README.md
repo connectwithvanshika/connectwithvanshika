@@ -1,6 +1,14 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vanshika+Yadav;AI%2FML+Enthusiast;Data+Analyst;Building+AI+Systems+with+LLMs+and+Agents" alt="Typing SVG" />
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #c084fc, #f472b6, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 55px;
+  font-weight: 800;">
+    Vanshika Yadav
+  </span>
+</h1>
 
 ### AI/ML Enthusiast | Data Analyst | HPAIR ACONF’25
 
