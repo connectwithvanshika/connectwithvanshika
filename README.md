@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #c084fc, #f472b6, #a855f7);
   -webkit-background-clip: text;
