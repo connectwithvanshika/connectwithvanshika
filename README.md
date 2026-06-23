@@ -132,7 +132,7 @@ vanshika = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=connectwithvanshika&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title_color=D552A3" />
+<img src="https://github-profile-trophy.vercel.app/?username=connectwithvanshika&theme=algolia&no-frame=true&no-bg=true" />
 
 </div>
 
