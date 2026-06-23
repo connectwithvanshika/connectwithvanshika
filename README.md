@@ -123,9 +123,6 @@ vanshika = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithvanshika&bg_color=0d001a&color=D552A3&line=831C91&point=FF70BF&area=true&area_color=462C7D&hide_border=true" />
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 </div>
 
 ---
