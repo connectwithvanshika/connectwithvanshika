@@ -144,6 +144,7 @@ vanshika = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-462C7D?style=for-the-badge&logo=github&logoColor=FF70BF)](https://github.com/connectwithvanshika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-831C91?style=for-the-badge&logo=linkedin&logoColor=FF70BF)](https://www.linkedin.com/in/vanshika-y-a4702a304/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-5A2D82?style=for-the-badge&logo=kaggle&logoColor=FF70BF)](https://www.kaggle.com/velvetcrystal)
 
 </div>
 
