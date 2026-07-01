@@ -4,8 +4,6 @@
 
 </div>
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D552A3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+Intelligent+AI+Systems+;LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents+;HPAIR+ACONF'25+%7C+Hacktoberfest+Super+Contributor+)](https://github.com/connectwithvanshika)
@@ -13,6 +11,9 @@
 </div>
 
 ---
+
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/5161757f-1510-4fcb-a5c8-be39ad4125cd" />
+
 
 ## About Me
 
