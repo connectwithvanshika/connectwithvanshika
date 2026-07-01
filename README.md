@@ -12,7 +12,8 @@
 
 ---
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/5161757f-1510-4fcb-a5c8-be39ad4125cd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c63d1e41-1fc7-4652-8754-75685d39dfdc" />
+
 
 
 ## About Me
